@@ -1,4 +1,4 @@
-package org.tec.datastructures.structures;
+package org.tec.datastructures.linear;
 
 import org.tec.datastructures.nodes.SimpleNode;
 

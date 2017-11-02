@@ -1,75 +1,75 @@
-package org.tec.datastructures.structures;
+package org.tec.datastructures.linear;
 
-import org.tec.datastructures.nodes.DoubleNode;
+import org.tec.datastructures.nodes.SimpleNode;
 
-public class DoubleList<T extends Comparable<T>>{
+public class SimpleList<T extends Comparable<T>>{
 	
-	DoubleNode<T> head;
+	private SimpleNode<T> head;
 	
-	public DoubleList(DoubleNode<T> Head) {
-		head = Head;
-	}
-	public DoubleList() {
+	public SimpleList() {
 		this(null);
 	}
 	
-	public DoubleNode<T> getHead(){
+	public SimpleList(SimpleNode<T> Head) {
+		head = Head;
+	}
+	
+	public SimpleNode<T> getHead(){
 		return this.head;
 	}
 	
 	
-	public void append(T value) {
+	public void append (T value) {
 		if (this.head == null){
-			this.head = new DoubleNode<T>(value);
+			this.head = new SimpleNode<T>(value);
 			return;
 		}
-		DoubleNode<T> temp = this.head;
+		SimpleNode<T> temp = this.head;
 		while (temp.hasNext()){
 			temp = temp.getNext();
 		}
-		DoubleNode<T> temp2 = new DoubleNode<T>(value); 
-		temp.setNext(temp2);
-		temp2.setPrevious(temp);
-	}
-	
-	
-	public DoubleNode<T> search(T value) {
-		DoubleNode<T> temp = this.head;
-		while(temp != null){
-			if(temp.getValue().equals(value)){
-				return temp;
-			}
-			temp = temp.getNext();
-		}
-		return null;
+		temp.setNext(new SimpleNode<T>(value));
 	}
 
 	
+	public SimpleNode<T> search(T value) {
+		SimpleNode<T> temp = this.head;
+		while(temp != null){
+			if(temp.getValue().equals(value)){
+				break;
+			}
+			temp = temp.getNext();
+		}
+		return temp;
+	}
+
 	public void delete(T value) {
-		DoubleNode<T> temp = this.head;
+		SimpleNode<T> temp = this.head;
+		SimpleNode<T> prev = null;
 		while(temp != null){
 			if(temp.getValue().equals(value)){
 				if (temp == this.head){
 					this.head = temp.getNext();
 				}
 				else{
-					temp.getPrevious().setNext(temp.getNext());
+					prev.setNext(temp.getNext());
 				}
 				break;
-				
 			}
+			prev = temp;
 			temp = temp.getNext();
 		}
+		
+	}		
 	
-	}
 	
 	public boolean isEmpty(){
 		return this.head == null;
 	}
-
+	
 	
 	public int length() {
-		DoubleNode<T> current = head;
+		SimpleNode<T> current = head;
 		int result = 0;
 		while (current != null){
 			result++;
@@ -78,10 +78,8 @@ public class DoubleList<T extends Comparable<T>>{
 		return result;
 	}
 
-	
 	public void clear() {
 		this.head = null;
-		
 	}
-
+	
 }

@@ -3,7 +3,7 @@ package org.tec.datastructures.tests;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-import org.tec.datastructures.structures.Queue;
+import org.tec.datastructures.linear.Queue;
 
 public class QueueTests {
 

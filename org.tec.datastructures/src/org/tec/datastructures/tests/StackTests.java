@@ -3,8 +3,8 @@ package org.tec.datastructures.tests;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+import org.tec.datastructures.linear.Stack;
 import org.tec.datastructures.nodes.SimpleNode;
-import org.tec.datastructures.structures.Stack;
 
 public class StackTests {
 

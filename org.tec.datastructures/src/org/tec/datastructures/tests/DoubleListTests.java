@@ -3,7 +3,7 @@ package org.tec.datastructures.tests;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-import org.tec.datastructures.structures.DoubleList;
+import org.tec.datastructures.linear.DoubleList;
 
 public class DoubleListTests {
 
