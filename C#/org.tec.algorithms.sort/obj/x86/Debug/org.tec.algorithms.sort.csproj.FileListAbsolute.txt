@@ -1,0 +1,2 @@
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.algorithms.sort/obj/x86/Debug/org.tec.algorithms.sort.csprojResolveAssemblyReference.cache
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.algorithms.sort/obj/x86/Debug/org.tec.algorithms.sort.csproj.CoreCompileInputs.cache

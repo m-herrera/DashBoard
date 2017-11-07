@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{804DBC5A-C4BB-4A29-932B-5D5454DEB536}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>org.tec.benchmarks</RootNamespace>
+    <AssemblyName>org.tec.benchmarks</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Datastructures benchmark.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\org.tec.algorithms.search\org.tec.algorithms.search.csproj">
+      <Project>{759008ED-D223-404F-BFC4-D353F40DD698}</Project>
+      <Name>org.tec.algorithms.search</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\org.tec.algorithms.sort\org.tec.algorithms.sort.csproj">
+      <Project>{032F11D6-7B4C-4CF6-98B9-5EEDDA7BF356}</Project>
+      <Name>org.tec.algorithms.sort</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\org.tec.datastructures\org.tec.datastructures.csproj">
+      <Project>{DA1C47C6-7099-4A92-8F84-900AAA601301}</Project>
+      <Name>org.tec.datastructures</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

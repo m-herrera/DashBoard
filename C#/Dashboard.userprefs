@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{804DBC5A-C4BB-4A29-932B-5D5454DEB536}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="org.tec.datastructures/SimpleList.cs">
+    <Files>
+      <File FileName="org.tec.datastructures/SimpleList.cs" Line="78" Column="29" />
+      <File FileName="org.tec.benchmarks/Datastructures benchmark.cs" Line="15" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.org.tec.benchmarks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.org.tec.datastructures PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

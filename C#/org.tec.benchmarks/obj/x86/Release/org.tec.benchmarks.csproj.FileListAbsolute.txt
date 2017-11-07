@@ -1,0 +1,7 @@
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.benchmarks/obj/x86/Release/org.tec.benchmarks.csprojResolveAssemblyReference.cache
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.benchmarks/obj/x86/Release/org.tec.benchmarks.csproj.CoreCompileInputs.cache
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.benchmarks/bin/Release/org.tec.benchmarks.exe
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.benchmarks/bin/Release/org.tec.algorithms.search.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.benchmarks/bin/Release/org.tec.algorithms.sort.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.benchmarks/bin/Release/org.tec.datastructures.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.benchmarks/obj/x86/Release/org.tec.benchmarks.exe

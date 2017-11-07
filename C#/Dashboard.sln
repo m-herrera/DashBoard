@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.tec.datastructures", "org.tec.datastructures\org.tec.datastructures.csproj", "{DA1C47C6-7099-4A92-8F84-900AAA601301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.tec.benchmarks", "org.tec.benchmarks\org.tec.benchmarks.csproj", "{804DBC5A-C4BB-4A29-932B-5D5454DEB536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.tec.algorithms.sort", "org.tec.algorithms.sort\org.tec.algorithms.sort.csproj", "{032F11D6-7B4C-4CF6-98B9-5EEDDA7BF356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.tec.algorithms.search", "org.tec.algorithms.search\org.tec.algorithms.search.csproj", "{759008ED-D223-404F-BFC4-D353F40DD698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA1C47C6-7099-4A92-8F84-900AAA601301}.Debug|x86.ActiveCfg = Debug|x86
+		{DA1C47C6-7099-4A92-8F84-900AAA601301}.Debug|x86.Build.0 = Debug|x86
+		{DA1C47C6-7099-4A92-8F84-900AAA601301}.Release|x86.ActiveCfg = Release|x86
+		{DA1C47C6-7099-4A92-8F84-900AAA601301}.Release|x86.Build.0 = Release|x86
+		{804DBC5A-C4BB-4A29-932B-5D5454DEB536}.Debug|x86.ActiveCfg = Debug|x86
+		{804DBC5A-C4BB-4A29-932B-5D5454DEB536}.Debug|x86.Build.0 = Debug|x86
+		{804DBC5A-C4BB-4A29-932B-5D5454DEB536}.Release|x86.ActiveCfg = Release|x86
+		{804DBC5A-C4BB-4A29-932B-5D5454DEB536}.Release|x86.Build.0 = Release|x86
+		{032F11D6-7B4C-4CF6-98B9-5EEDDA7BF356}.Debug|x86.ActiveCfg = Debug|x86
+		{032F11D6-7B4C-4CF6-98B9-5EEDDA7BF356}.Debug|x86.Build.0 = Debug|x86
+		{032F11D6-7B4C-4CF6-98B9-5EEDDA7BF356}.Release|x86.ActiveCfg = Release|x86
+		{032F11D6-7B4C-4CF6-98B9-5EEDDA7BF356}.Release|x86.Build.0 = Release|x86
+		{759008ED-D223-404F-BFC4-D353F40DD698}.Debug|x86.ActiveCfg = Debug|x86
+		{759008ED-D223-404F-BFC4-D353F40DD698}.Debug|x86.Build.0 = Debug|x86
+		{759008ED-D223-404F-BFC4-D353F40DD698}.Release|x86.ActiveCfg = Release|x86
+		{759008ED-D223-404F-BFC4-D353F40DD698}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
