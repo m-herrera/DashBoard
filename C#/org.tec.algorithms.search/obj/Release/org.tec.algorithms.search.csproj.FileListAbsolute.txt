@@ -1,0 +1,3 @@
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.algorithms.search/bin/Release/org.tec.algorithms.search.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.algorithms.search/obj/Release/org.tec.algorithms.search.csproj.CoreCompileInputs.cache
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.algorithms.search/obj/Release/org.tec.algorithms.search.dll

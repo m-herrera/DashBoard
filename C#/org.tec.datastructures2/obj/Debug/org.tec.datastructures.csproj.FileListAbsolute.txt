@@ -1,0 +1,5 @@
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures2/bin/Debug/org.tec.datastructures2.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures2/bin/Debug/org.tec.datastructures2.pdb
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures2/obj/Debug/org.tec.datastructures.csproj.CoreCompileInputs.cache
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures2/obj/Debug/org.tec.datastructures2.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures2/obj/Debug/org.tec.datastructures2.pdb
