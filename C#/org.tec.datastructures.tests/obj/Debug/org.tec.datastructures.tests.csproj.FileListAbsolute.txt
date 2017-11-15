@@ -1,10 +1,10 @@
 /Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures.tests/bin/Debug/org.tec.datastructures.tests.dll
 /Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures.tests/bin/Debug/org.tec.datastructures.tests.pdb
 /Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures.tests/bin/Debug/nunit.framework.dll
-/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures.tests/bin/Debug/org.tec.datastructures2.dll
-/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures.tests/bin/Debug/org.tec.datastructures2.pdb
 /Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures.tests/bin/Debug/nunit.framework.xml
 /Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures.tests/obj/Debug/org.tec.datastructures.tests.csprojResolveAssemblyReference.cache
 /Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures.tests/obj/Debug/org.tec.datastructures.tests.csproj.CoreCompileInputs.cache
 /Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures.tests/obj/Debug/org.tec.datastructures.tests.dll
 /Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures.tests/obj/Debug/org.tec.datastructures.tests.pdb
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures.tests/bin/Debug/org.tec.datastructures.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures.tests/bin/Debug/org.tec.datastructures.pdb

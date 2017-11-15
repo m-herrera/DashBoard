@@ -1,1 +1,6 @@
 /Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.algorithms.search/obj/x86/Debug/org.tec.algorithms.search.csproj.CoreCompileInputs.cache
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.algorithms.search/bin/Debug/org.tec.algorithms.search.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.algorithms.search/bin/Debug/org.tec.algorithms.search.pdb
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.algorithms.search/obj/x86/Debug/org.tec.algorithms.search.csproj.CoreCompileInputs.cache
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.algorithms.search/obj/x86/Debug/org.tec.algorithms.search.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.algorithms.search/obj/x86/Debug/org.tec.algorithms.search.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.tec.algorithms.sort", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.tec.algorithms.search", "org.tec.algorithms.search\org.tec.algorithms.search.csproj", "{759008ED-D223-404F-BFC4-D353F40DD698}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.tec.datastructures.tests", "org.tec.datastructures.tests\org.tec.datastructures.tests.csproj", "{FC724C85-A24F-4AB5-8706-1A23831C65F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,5 +33,9 @@ Global
 		{759008ED-D223-404F-BFC4-D353F40DD698}.Debug|x86.Build.0 = Debug|x86
 		{759008ED-D223-404F-BFC4-D353F40DD698}.Release|x86.ActiveCfg = Release|x86
 		{759008ED-D223-404F-BFC4-D353F40DD698}.Release|x86.Build.0 = Release|x86
+		{FC724C85-A24F-4AB5-8706-1A23831C65F6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FC724C85-A24F-4AB5-8706-1A23831C65F6}.Debug|x86.Build.0 = Debug|Any CPU
+		{FC724C85-A24F-4AB5-8706-1A23831C65F6}.Release|x86.ActiveCfg = Release|Any CPU
+		{FC724C85-A24F-4AB5-8706-1A23831C65F6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,1 +1,13 @@
 /Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.benchmarks/obj/x86/Debug/org.tec.benchmarks.csproj.CoreCompileInputs.cache
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.benchmarks/bin/Debug/org.tec.benchmarks.exe
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.benchmarks/bin/Debug/org.tec.benchmarks.pdb
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.benchmarks/bin/Debug/org.tec.algorithms.search.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.benchmarks/bin/Debug/org.tec.algorithms.sort.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.benchmarks/bin/Debug/org.tec.datastructures.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.benchmarks/bin/Debug/org.tec.algorithms.search.pdb
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.benchmarks/bin/Debug/org.tec.algorithms.sort.pdb
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.benchmarks/bin/Debug/org.tec.datastructures.pdb
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.benchmarks/obj/x86/Debug/org.tec.benchmarks.csprojResolveAssemblyReference.cache
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.benchmarks/obj/x86/Debug/org.tec.benchmarks.csproj.CoreCompileInputs.cache
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.benchmarks/obj/x86/Debug/org.tec.benchmarks.exe
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.benchmarks/obj/x86/Debug/org.tec.benchmarks.pdb

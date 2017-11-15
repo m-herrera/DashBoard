@@ -1,7 +1,11 @@
 ﻿<Properties StartupConfiguration="{804DBC5A-C4BB-4A29-932B-5D5454DEB536}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="org.tec.datastructures.tests/SplayTreeTest.cs">
+    <Files>
+      <File FileName="org.tec.datastructures/SplayTree.cs" Line="1" Column="1" />
+      <File FileName="org.tec.datastructures.tests/SplayTreeTest.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.ItemProperties.org.tec.datastructures.tests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -28,6 +28,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="SimpleList.cs" />
+    <Compile Include="BinaryTree.cs" />
+    <Compile Include="CircularList.cs" />
+    <Compile Include="DoubleList.cs" />
+    <Compile Include="Queue.cs" />
+    <Compile Include="SplayTree.cs" />
+    <Compile Include="Stack.cs" />
+    <Compile Include="AVLTree.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,1 +1,7 @@
 /Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.datastructures/obj/x86/Debug/org.tec.datastructures.csproj.CoreCompileInputs.cache
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures/bin/Debug/org.tec.datastructures.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures/bin/Debug/org.tec.datastructures.pdb
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures/obj/x86/Debug/org.tec.datastructures.csprojResolveAssemblyReference.cache
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures/obj/x86/Debug/org.tec.datastructures.csproj.CoreCompileInputs.cache
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures/obj/x86/Debug/org.tec.datastructures.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures/obj/x86/Debug/org.tec.datastructures.pdb

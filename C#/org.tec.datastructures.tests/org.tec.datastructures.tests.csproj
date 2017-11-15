@@ -1,0 +1,54 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FC724C85-A24F-4AB5-8706-1A23831C65F6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>org.tec.datastructures.tests</RootNamespace>
+    <AssemblyName>org.tec.datastructures.tests</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="nunit.framework">
+      <HintPath>..\packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="org.tec.datastructures.tests.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AVLTreeTest.cs" />
+    <Compile Include="BinaryTreeTest.cs" />
+    <Compile Include="CircularListTest.cs" />
+    <Compile Include="DoubleListTest.cs" />
+    <Compile Include="QueueTest.cs" />
+    <Compile Include="SimpleListTest.cs" />
+    <Compile Include="SplayTreeTest.cs" />
+    <Compile Include="StackTest.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\org.tec.datastructures\org.tec.datastructures.csproj">
+      <Project>{DA1C47C6-7099-4A92-8F84-900AAA601301}</Project>
+      <Name>org.tec.datastructures</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

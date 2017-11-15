@@ -4,11 +4,14 @@ namespace org.tec.datastructures
     public class SimpleList<T>
     {
         Node<T> head;
+        int length = 0;
+
         public void Append(T value)
         {
             if (head == null)
             {
                 head = new Node<T>(value);
+                this.length++;
             }
             else
             {
@@ -19,6 +22,7 @@ namespace org.tec.datastructures
                 }
 
                 nodo.SetNext(new Node<T>(value));
+                this.length++;
 
             }
         }
@@ -47,6 +51,7 @@ namespace org.tec.datastructures
                 if (counter == index)
                 {
                     temp.SetNext(temp.GetNext().GetNext());
+                    this.length--;
                     return;
                 }else{
                     temp = temp.GetNext();
@@ -72,8 +77,17 @@ namespace org.tec.datastructures
                     counter++;
                 }
             }
-            return default(T);
+            throw new ArgumentOutOfRangeException();
         }
+
+        public Boolean IsEmpty(){
+            return this.head == null;
+        }
+
+        public int Length(){
+            return this.length;
+        }
+
 
         public class Node<T>
         {

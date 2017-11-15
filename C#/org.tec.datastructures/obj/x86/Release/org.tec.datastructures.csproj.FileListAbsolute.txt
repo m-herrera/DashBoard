@@ -1,3 +1,6 @@
 /Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.datastructures/obj/x86/Release/org.tec.datastructures.csproj.CoreCompileInputs.cache
 /Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.datastructures/bin/Release/org.tec.datastructures.dll
 /Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/Dashboard/org.tec.datastructures/obj/x86/Release/org.tec.datastructures.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures/bin/Release/org.tec.datastructures.dll
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures/obj/x86/Release/org.tec.datastructures.csproj.CoreCompileInputs.cache
+/Users/Jai/Library/Mobile Documents/com~apple~CloudDocs/Datos I/DashBoard/C#/org.tec.datastructures/obj/x86/Release/org.tec.datastructures.dll
